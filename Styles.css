@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url(sandbox/fonts1/FontAwesome.otf);
+}
+
+
+.menu{
+height: 100px;
+width: 100%;
+background-image: url(/sandbox/images/fondo-bienvenido-grande.jpg);
+
+}
+
