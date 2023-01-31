@@ -5,9 +5,13 @@
 
 
 .menu{
+display: flex;
 height: 100px;
 width: 100%;
 background-image: url(/sandbox/images/fondo-bienvenido-grande.jpg);
-
+background-position: center; background-position-y: top;
+background-size:10000px 1000px;
+background-repeat: no-repeat repeat;
+background-size: cover;
+align-items: center;
 }
-
